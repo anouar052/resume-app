@@ -1,0 +1,142 @@
+{
+  "home": {
+    "text": "Welcome, I'm Anouar Alahiane, UX/UI Designer and Front-end Developer Based in Marrakech"
+  },
+  "about": {
+    "paragraphs": [
+      "Welcome to my portfolio! I'm Mohamed Anouar Alahiane, a skilled web developer and UI/UX designer with over six years of experience. I specialize in using cutting-edge JavaScript frameworks such as React, Next.js, Remix, Vue.js, Astro.js, and more.",
+      "My passion for technology and design began years ago, and I have since dedicated myself to honing my craft through both formal education and hands-on experience. I have had the privilege of working on a wide range of projects, from small-scale startups to large-scale enterprise applications, always striving to deliver high-quality results.",
+      "My expertise in web development is focused on building dynamic, responsive, and user-friendly interfaces using modern JavaScript frameworks. I have extensive experience with React, Next.js, and Remix, and I am always eager to explore new tools and technologies to stay ahead of the curve.",
+      "In addition to my technical skills, I have a strong background in UI/UX design, with a focus on creating visually appealing and engaging user interfaces. I am adept at using design tools such as Figma and Sketch to create wireframes, prototypes, and visual designs that exceed clients' expectations.",
+      "I am also well-versed in digital marketing, including SEO, social media marketing, and email marketing. This knowledge allows me to take a holistic approach to my projects, ensuring that all aspects of a client's digital presence are optimized for success.",
+      "Throughout my career, I have built a reputation for being a collaborative and communicative team player, always willing to go the extra mile to ensure client satisfaction. My strong adaptability and problem-solving skills enable me to navigate challenging situations with ease, delivering innovative and effective solutions.",
+      "Thank you for taking the time to review my portfolio. I am excited to hear more about your project and how I can help bring your digital vision to life."
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programing Languages",
+      "list": [
+        {
+          "name": "JavaScript",
+          "icons": "/js.svg"
+        },
+        {
+          "name": "TypeScript",
+          "icons": "/ts.svg"
+        },
+        {
+          "name": "Python",
+          "icons": "/python.svg"
+        },
+        {
+          "name": "PHP",
+          "icons": "/php.svg"
+        }
+      ]
+    },
+    {
+      "category": "JS frameworks",
+      "list": [
+        {
+          "name": "React",
+          "icons": "/react.svg"
+        },
+        {
+          "name": "NextJs",
+          "icons": "/next.svg"
+        },
+        {
+          "name": "Vue",
+          "icons": "/vue.svg"
+        },
+        {
+          "name": "Nuxt",
+          "icons": "/nuxt.svg"
+        },
+        {
+          "name": "Node",
+          "icons": "/node.svg"
+        }
+      ]
+    },
+    {
+      "category": "CSS frameworks",
+      "list": [
+        {
+          "name": "Sass",
+          "icons": "/sass.svg"
+        },
+        {
+          "name": "Tailwind",
+          "icons": "/tailwind.svg"
+        },
+        {
+          "name": "MUI",
+          "icons": "/mui.svg"
+        },
+        {
+          "name": "Chakra UI",
+          "icons": "/chakra.svg"
+        }
+      ]
+    },
+    {
+      "category": "Headless CMS",
+      "list": [
+        {
+          "name": "Sanity.io",
+          "icons": "/sanity.svg"
+        },
+        {
+          "name": "Strapi",
+          "icons": "/strapi.svg"
+        },
+        {
+          "name": "Wordpress",
+          "icons": "/wordpress.svg"
+        },
+        {
+          "name": "Contentful",
+          "icons": "/contentful.svg"
+        },
+        {
+          "name": "KeystoneJs",
+          "icons": "/keystonejs.svg"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Monello",
+      "image": "/projects/monello.png",
+      " url": "https://monello.vercel.app",
+      "description": "Monello restaurant website, created with Nextjs, ChakraUI for styling, Gsap for animation and Sanity.io as a CMS."
+    },
+    {
+      "name": "PIP",
+      "image": "/projects/pip.png",
+      "url": "https://new.prittip.com",
+      "description": "Pritt Investment Partners website, created with Nextjs, Chakra UI for styling and Framer-motion for animations."
+    },
+    {
+      "name": "BloodRiverInk",
+      "image": "/projects/bri.png",
+      "url": "https://blood-river.vercel.app",
+      "description": "A Tattoo shop’s website, showcasing their artist masterpieces. The website is created with Nextjs, Styled Components for styling, and framer motion for animation."
+    },
+    {
+      "name": "FloowerStore",
+      "image": "/projects/floower.png",
+      "url": "https://floower-store.vercel.app",
+      "description": "A flower shop’s website, created with HydrogenJs framework, TailwindCss for the styling, StoreFront API along with Shopify’s backend as a CMS and E-com functionnalities."
+    },
+    {
+      "name": "Mascot inc",
+      "image": "/projects/mascotInc.jpg",
+      "url": "https://mascot-web.vercel.app",
+      "description": "A Web solutions agency's website, using the new nextJs 13 with RFC, tailwindCss for the styling and gsap for animation."
+    }
+  ]
+}
