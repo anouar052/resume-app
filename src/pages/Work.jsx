@@ -18,7 +18,7 @@ const Work = () => {
   }, []);
   if (projects === null) return <div>Loading...</div>;
   return (
-    <section className="flex flex-col justify-center items-center gap-12 px-48">
+    <section className="flex flex-col justify-center items-center gap-12 px-48 py-32">
       <h2 className="text-5xl font-bold">Some of my work</h2>
       {projects &&
         projects.map((project) => {

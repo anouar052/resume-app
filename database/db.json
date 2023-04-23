@@ -4,7 +4,7 @@
   },
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm Mohamed Anouar Alahiane, a skilled web developer and UI/UX designer with over six years of experience. I specialize in using cutting-edge JavaScript frameworks such as React, Next.js, Remix, Vue.js, Astro.js, and more.",
+      "I'm web developer and UI/UX designer with over six years of experience. I specialize in using cutting-edge JavaScript frameworks such as React, Next.js, Remix, Vue.js, Astro.js, and more.",
       "My passion for technology and design began years ago, and I have since dedicated myself to honing my craft through both formal education and hands-on experience. I have had the privilege of working on a wide range of projects, from small-scale startups to large-scale enterprise applications, always striving to deliver high-quality results.",
       "My expertise in web development is focused on building dynamic, responsive, and user-friendly interfaces using modern JavaScript frameworks. I have extensive experience with React, Next.js, and Remix, and I am always eager to explore new tools and technologies to stay ahead of the curve.",
       "In addition to my technical skills, I have a strong background in UI/UX design, with a focus on creating visually appealing and engaging user interfaces. I am adept at using design tools such as Figma and Sketch to create wireframes, prototypes, and visual designs that exceed clients' expectations.",
@@ -137,6 +137,36 @@
       "image": "/projects/mascotInc.jpg",
       "url": "https://mascot-web.vercel.app",
       "description": "A Web solutions agency's website, using the new nextJs 13 with RFC, tailwindCss for the styling and gsap for animation."
+    }
+  ],
+  "experience": [
+    {
+      "period": "2021-2022",
+      "title": "Lead software engineer",
+      "company": "Pritt Investment Partners",
+      "tasks": [
+        "• Creating React websites and apps using Nextjsframework for PIP.",
+        " Managing PIP’s servers using docker comtainers to host websites, apps, and databases",
+        "Configuring, customizing and white-labeling opensource software to be used internally by the staff."
+      ]
+    },
+    {
+      "period": "2019-2020",
+      "title": "Front-end engineer",
+      "company": "Pritt Investment Partners",
+      "tasks": [
+        "• Creating React websites and apps using Nextjsframework for PIP.",
+        " Managing PIP’s servers using docker comtainers to host websites, apps, and databases",
+        "Configuring, customizing and white-labeling opensource software to be used internally by the staff."
+      ]
+    },
+    {
+      "period": "2017-2018",
+      "title": "Front-end engineer",
+      "company": "Freelance",
+      "tasks": [
+        "Working with international small and medium comapnies to build their websites and manage their brand’s digital presence."
+      ]
     }
   ]
 }
