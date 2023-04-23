@@ -18,11 +18,11 @@ const About = () => {
   }, []);
   if (about === null) return <div>Loading...</div>;
   return (
-    <section className="min-h-screen w-full flex flex-col justify-center items-center px-48 py-32 gap-6 ">
+    <section className="min-h-screen w-full flex flex-col justify-center items-center px-6 md:px-24 lg:px-48 py-32 gap-6 ">
       <h2 className="text-5xl font-bold">
         <span></span>About me
       </h2>
-      <div className="text-xl font-semibold leading-loose w-2/3 flex flex-col">
+      <div className="text-xl font-semibold leading-loose w-5/6 md:w-4/5 lg:w-2/3 flex flex-col">
         <p>
           Welcome to my portfolio! I &apos;m
           <span className="text-cyan-500"> Mohamed Anouar Alahiane</span>

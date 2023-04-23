@@ -1,6 +1,9 @@
 {
   "home": {
-    "text": "Welcome, I'm Anouar Alahiane, UX/UI Designer and Front-end Developer Based in Marrakech"
+    "text": "Welcome, I'm Anouar Alahiane, UX/UI Designer and Front-end Developer Based in Marrakech",
+    "phone": "+212 691546105",
+    "website": "www.anouar-alh.com",
+    "gmail": "anouar.alh@gmail.com"
   },
   "about": {
     "paragraphs": [
@@ -111,7 +114,7 @@
     {
       "name": "Monello",
       "image": "/projects/monello.png",
-      " url": "https://monello.vercel.app",
+      "url": "https://monello.vercel.app",
       "description": "Monello restaurant website, created with Nextjs, ChakraUI for styling, Gsap for animation and Sanity.io as a CMS."
     },
     {

@@ -9,7 +9,7 @@ const Nav = () => {
   // };
 
   return (
-    <header className=" absolute top-0 left-0 w-full px-24 flex items-center justify-between">
+    <header className=" absolute top-0 left-0 w-full px-24 flex lg:items-end justify-between lg:flex-row flex-col items-center">
       <h2 className="text-4xl font-bold">
         <Link to="/">
           Alh <span className="text-cyan-400 text-6xl">.</span>
@@ -28,7 +28,7 @@ const Nav = () => {
               <Link
                 to={`/${navLink}`}
                 key={navLink}
-                className="hover:border-b-cyan-200 hover:border-b-2 py-2"
+                className="hover:border-b-cyan-200 hover:border-b-2  py-2"
                 onClick={(e) => {
                   setActive(e.target.innerText);
                 }}

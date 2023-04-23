@@ -19,7 +19,7 @@ const Experience = () => {
   }, []);
   if (experience === null) return <div>Loading...</div>;
   return (
-    <section className="flex pt-32 min-h-screen items-center flex-col justify-center gap-16 ">
+    <section className="flex pt-32 min-h-screen w-10/12 ml-12 items-center flex-col justify-center gap-16 ">
       <h2 className="text-5xl font-bold">Work Experience</h2>
       <div>
         {experience &&
@@ -29,7 +29,7 @@ const Experience = () => {
                 key={i}
                 period={exp.period}
                 title={exp.title}
-                company={exp.title}
+                company={exp.company}
                 tasks={exp.tasks}
               />
             );
